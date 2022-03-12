@@ -1,11 +1,11 @@
-<h3 align="center">💝MAALUTTY_V2💝</h3>
+<h3 align="center">💝JAYUSBOTWHATSAPP_V2💝</h3>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+MAALUTTY_V2+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/Maalutty.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="MAALUTTY_V2" src="https://img.shields.io/badge/MAALUTTY_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="JAYUSBOTWHATSAPP_V2" src="https://img.shields.io/badge/MAALUTTY_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V2&title=MAALUTTY_V2%20Views)
 
-get extra feturs use maalutty v3😍⏬
+get extra feturs use JAYUSBOTWHATSAPP v3😍⏬
 
 [![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=nijin-husni&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/nijin-husni/MAALUTTY_V3)
   </div>
