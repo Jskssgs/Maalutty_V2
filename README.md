@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 
 get extra feturs use JAYUSBOTWHATSAPP v3😍⏬
 
-[![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=nijin-husni&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/nijin-husni/MAALUTTY_V3)
+[![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=gölge-adam&repo=MAALUTTY_V3&theme=nightowl)](https://github.com/jskssgs/MAALUTTY_V3)
   </div>
     
 
@@ -35,14 +35,14 @@ get extra feturs use JAYUSBOTWHATSAPP v3😍⏬
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jskssgs/MAALUTTY_V2) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V2
+$ git clone https://github.com/jaskssgs/MAALUTTY_V2
 $ cd MAALUTTY_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -60,15 +60,15 @@ $ node maalutty.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nijin-husni/MAALUTTY_V2">
+  <a href="httsp://github.com/jskssgs/MAALUTTY_V2">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/nijin-husni/followers"
+<a href="https://github.com/jskssgs/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/jskssgs/MAALUTTY_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jskssgs/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/jskssgs/MAALUTTY_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -76,7 +76,7 @@ Click WA logo to Join Support Group 👇
 ##Not allowed bots on this group 🔰
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]https://chat.whatsapp.com/K0WqMHq4Qbm98dkEfUp8BX
   <div align="center">
 
 
@@ -84,23 +84,23 @@ Click WA logo to Join public bot Group👇
 ##Bots allowed grops 🔰
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BUt420LTGKBHNHALHKV9jJ)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]https://chat.whatsapp.com/CMf0chLkCAILoizuye2EvX
   <div align="center">
 
   </div>
 
 ### youtube👇
 
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA)
+[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)] https://youtube.com/channel/UCZR_YwxbbQWce36GaQkGmSg
 
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)]https://www.instagram.com/golgeadamreis/
 
 ### ❤️ MAALUTTY_V2 💙 website⤵️
 
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
+[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2jskssgs.blogspot.com)
 
 
 ### ⚠️ Warning! 
@@ -114,9 +114,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-![nijin-husni](https://github.com/nijin-husni.png?size=100)
+![nijin-husni](https://github.com/jskssgs.png?size=100)
 
- [nijin-husni](https://github.com/nijin-husni)
+ [nijin-husni](https://github.com/jskssgs)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
