@@ -68,7 +68,7 @@ $ node maalutty.js
 <a href="https://github.com/jskssgs/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
 <a href="https://github.com/jskssgs/MAALUTTY_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jskssgs/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/jskssgs/MAALUTTY_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/jskssgs/MAALUTTY_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jskssgs/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
